@@ -1,0 +1,27 @@
+Coleta de Requisitos do cliente:
+
+— Precisa de um veículo que consiga transportar sacos de ração e ferramentas pesadas;
+
+— O veículo precisa ser resistente para atravessar estradas pavimentadas e ruas sem nenhum problema;
+
+— Veículo precisa ter tração nas 4 rodas;
+
+— Veículo precisa ter um lugar para guardar ferramentas;
+
+— Veículo precisa ter uma iluminação potente.
+
+
+Requisitos Funcionais:
+
+— Sistema de iluminação potente;
+
+— Lugar para guardar ferramentas;
+
+— Consiga transportar sacos de ração.
+
+— Tenha tração nas 4 rodas.
+
+
+Requisitos Não Funcionais:
+
+— Ser resistente;
