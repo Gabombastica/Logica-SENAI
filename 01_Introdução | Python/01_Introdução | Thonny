@@ -1,22 +1,22 @@
-# Criamos uma variavel
+# Criamos uma variável
 nome = "Gabriely"
 
-# tipo int
+# Tipo int
 idade = 15
 
-# tipo float
+# Tipo float
 altura = 1.60
 
-# tipo str
+# Tipo str
 uf = "SP"
 
-# tipo bool
+# Tipo bool
 maioridade = idade >= 18
 
-#print(maioridade)
+# print(maioridade)
 
-# usamos o print para exibir informações
-#print("Ola mundo")
+# Usamos o print para exibir informações
+# print("Olá mundo")
 
 # Realizando uma soma
 
@@ -31,12 +31,11 @@ resultado_soma = numero1 + numero2
 # print(resultado_soma)
 # print(f"O resultado da soma é {resultado_soma}")
 
-
 # Usar o input para entrada de dados
 # Entre aspas definir uma sugestão
-#nome = input ("Digite seu nome: ")
-# Realizando uma soma
+# nome = input("Digite seu nome: ")
 
+# Realizando uma soma
 # Obter os números
 numero1 = float(input("Digite um número: "))
 numero2 = float(input("Digite outro número: "))
