@@ -1,24 +1,25 @@
 # Operadores Relacionais
 
-# Maior >
 # Menor <
+# Maior >
 # Igual ==
 # Diferente !=
+# Menor ou Igual <=
+# Maior ou Igual >=
 
 num1 = 5
-num2 = 7
+num2 = 5
 
-#print(num1 > num2)
-#print(num1 < num2)
-#print(num1 == num2)
-#print(num1 != num2)
+# print(num1 < num2)
+# print(num2 > num1)
+# print(num1 == num2)
+# print(num1 != num2)
 
 # Solicitar uma temperatura
 temperatura = float(input("Digite uma temperatura: "))
 
-temperatura_amena = 25
-
 # Verificar se a temperatura é maior que a amena
+temperatura_amena = 25
 if temperatura > temperatura_amena:
     print("Tá calor")
 else:
