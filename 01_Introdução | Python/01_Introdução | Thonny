@@ -12,13 +12,12 @@ uf = "SP"
 
 # Tipo bool
 maioridade = idade >= 18
-
 # print(maioridade)
 
 # Usamos o print para exibir informações
 # print("Olá mundo")
 
-# Realizando uma soma
+# Realizando uma soma:
 
 # Obter os números
 numero1 = 5
@@ -35,7 +34,8 @@ resultado_soma = numero1 + numero2
 # Entre aspas definir uma sugestão
 # nome = input("Digite seu nome: ")
 
-# Realizando uma soma
+# Realizando uma soma:
+
 # Obter os números
 numero1 = float(input("Digite um número: "))
 numero2 = float(input("Digite outro número: "))
